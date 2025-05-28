@@ -5,7 +5,7 @@ An automated plant care system using WIZnet W5500 Ethernet Shield and Ubidots cl
 This project monitors various environmental parameters (temperature, humidity, soil moisture, dust, and rain) and controls actuators (water pump, fan) based on thresholds to maintain an optimal plant growing environment.
 
 > ⚠️ Original article was hosted at: [https://www.instructables.com/Smart-Plantfarm/](https://www.instructables.com/Smart-Plantfarm/)  
-> *Unfortunately, it has been removed.*
+> *Unfortunately, original source files has been removed.*
 
 ---
 
